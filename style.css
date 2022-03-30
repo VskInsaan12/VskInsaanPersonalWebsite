@@ -12,3 +12,21 @@ body{
 #bot{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+#MyCarousel{
+    background-color: aqua;
+}
+#MyCarousel img{
+    margin-top: 35px;
+    height: 300px;
+}
+.carousel-inner p{
+    color: brown;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.line{
+    height: 5px;
+    width: 50px;
+    background-color: blue;
+    margin: auto;
+}
